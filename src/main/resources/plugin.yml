@@ -1,0 +1,9 @@
+name: Glowgui
+version: '${project.version}'
+main: com.snat.glowgui.Main
+api-version: 1.18
+authors: [ snat ]
+description: for Legacy Factions
+commands:
+  glow:
+
